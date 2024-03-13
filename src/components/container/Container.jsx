@@ -7,7 +7,7 @@ import SongDetail from "./songDetail/SongDetail";
 const Container = (props) => {
   return (
     <div className={styles.container}>
-      <Playlist />
+      {/* <Playlist /> */}
       <SongList />
       <SongDetail />
     </div>

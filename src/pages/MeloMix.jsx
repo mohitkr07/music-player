@@ -7,7 +7,7 @@ const MeloMix = (props) => {
   return (
     <div className={styles.container}>
       <Container />
-      {/* <MusicBar /> */}
+      <MusicBar />
     </div>
   );
 };
